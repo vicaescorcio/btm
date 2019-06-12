@@ -2563,7 +2563,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   }
 
   .our_partners_area .partners .item img {
-    width: auto;
+    width: 100px;
     margin: 0 auto;
   }
 
